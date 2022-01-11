@@ -1,4 +1,4 @@
-# rabbitmq cluster配置部署
+# rabbitmq cluster配置部署（普通集群）
 - 拉取仓库
 ```
 git clone https://github.com/anyangdp/rabbitmq-cluster.git
@@ -18,3 +18,6 @@ http://ip:15672
 - 客户端连接
 ip:5672
 - 默认账号密码：guest guest
+
+# 经典镜像模式配置
+https://www.jianshu.com/p/c5c1af375916
